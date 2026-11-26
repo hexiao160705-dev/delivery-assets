@@ -14,5 +14,6 @@
 | office-handbook.zip | 办公提效手册 8 章 + 提示词 30 卡 | 971 KB |
 | book-method-pack.zip | 原创书稿 + 提示词方法包 | 1.3 MB |
 | mega-168.zip | 办公模板合集 168 份 | 7.7 MB |
+| legal-governance-deck.zip | 检察职能与社会治理培训框架 12 页 + 讲稿 + 样稿 + PDF | 1.5 MB |
 
 所有 PPTX 均做过 LibreOffice 转 PDF 逐页渲染核对。
